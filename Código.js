@@ -1,5 +1,5 @@
 var gData;
-var url =  'https://script.google.com/macros/s/AKfycby66pO8D9GaWu11-5qgPc6kPO8GVZD3tYtKYkyownmlSxPezRtG2WOH0zdB74qSHKc1/exec?action=getData
+var url =  'https://script.google.com/macros/s/AKfycbzIbxBH-LgsqDUk289YVCXvUHFWXZJv8RTYwlkFNspoOBdUTytjME_NhA5YImhRmIyj/exec'
 ' 
 
 function getDataAPI() {  
